@@ -3,3 +3,16 @@
     margin: 0
     ;
 }
+
+
+.container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.contacts{
+    background-color: rgba(232, 235, 228, 0.8);
+    width: 60vh;
+}
